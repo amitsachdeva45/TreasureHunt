@@ -43,3 +43,8 @@ Final code file is:
 /////////////////////////////////////
 Extra try operations (Not Related to final code)
 temp.clj
+
+
+//////////////////////////////
+Question statement
+A2.pdf
